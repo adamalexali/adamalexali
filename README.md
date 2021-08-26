@@ -6,18 +6,18 @@ Check out my website with my CV here: https://adamalexali.com/
 
 ## Currently…
 
-- Exploring digital accessibility for job-seekers with disabilities _with_ [GBC Research & Innovation](https://www.georgebrown.ca/about/office-of-research-innovation)
-- Seeking part-time design or dev positions/contracts—particularly _in_ the service design, UX, civic tech space.
-- Studying Digital Experience Design _at_ George Brown College, going into my final year
-- Studying Computer Science _at_ edX
-- Freelancing web development _using_ Webflow
-- Building projects _using_ Github
+- Exploring digital accessibility for job-seekers with disabilities with [GBC Research & Innovation](https://www.georgebrown.ca/about/office-of-research-innovation)
+- Seeking part-time design or dev positions/contracts—particularly in the service design, UX, civic tech space.
+- Studying Digital Experience Design at George Brown College, going into my final year
+- Studying Computer Science at edX
+- Freelancing web development using Webflow
+- Building projects using Github
 
 ## Previously…
 
-- Graphic designer _with_ the [Ontario Black History Society](https://blackhistorysociety.ca/)
-- Product designer & UX researcher _with_ [GBC Research & Innovation](https://www.georgebrown.ca/about/office-of-research-innovation)
-- Front-end developer _with_ [LinkMentalHealth](https://www.linkmentalhealth.com/)
+- Graphic designer with the [Ontario Black History Society](https://blackhistorysociety.ca/)
+- Product designer & UX researcher with [GBC Research & Innovation](https://www.georgebrown.ca/about/office-of-research-innovation)
+- Front-end developer with [LinkMentalHealth](https://www.linkmentalhealth.com/)
 
 ## My skills…
 
