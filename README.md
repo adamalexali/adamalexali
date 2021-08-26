@@ -1,8 +1,8 @@
 # Hello! 👋
 
-## I'm Adam Ali—a human-focused experience designer, developer, and researcher exploring the intersections of people, design, and technology.
+I'm **Adam Ali—a human-focused experience designer, developer, and researcher** exploring the intersections of people, design, and technology.
 
-Check out my website with my CV here: https://adamalexali.com/
+[Check out my website with my CV](https://adamalexali.com/)
 
 ## Currently…
 
