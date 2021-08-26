@@ -4,7 +4,7 @@ I'm **Adam Ali—a human-focused experience designer, developer, and researcher*
 
 [Check out my website with my CV](https://adamalexali.com/)
 
-## Currently…
+## 🌱 Currently…
 
 - Exploring digital accessibility for job-seekers with disabilities with [GBC Research & Innovation](https://www.georgebrown.ca/about/office-of-research-innovation)
 - Seeking part-time design or dev positions/contracts—particularly in the service design, UX, civic tech space.
@@ -13,13 +13,13 @@ I'm **Adam Ali—a human-focused experience designer, developer, and researcher*
 - Freelancing web development using Webflow
 - Building projects using Github
 
-## Previously…
+## 🌲 Previously…
 
 - Graphic designer with the [Ontario Black History Society](https://blackhistorysociety.ca/)
 - Product designer & UX researcher with [GBC Research & Innovation](https://www.georgebrown.ca/about/office-of-research-innovation)
 - Front-end developer with [LinkMentalHealth](https://www.linkmentalhealth.com/)
 
-## My skills…
+## 🛠 My skills…
 
 ### Development
 
