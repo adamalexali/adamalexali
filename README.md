@@ -2,7 +2,7 @@
 
 I'm **Adam Ali—a human-focused experience designer, developer, and researcher** exploring the intersections of people, design, and technology.
 
-[Check out my website with my CV](https://adamalexali.com/)
+[Check out my website with my CV](https://adamalexali.com/)!
 
 ## 🌱 Currently…
 
@@ -60,6 +60,6 @@ Photoshop, Illustrator, XD, After Effects, InDesign, Aero, Figma, Sketch, InVisi
 
 ## 📫 How to reach me…
 
-- On twitter: [@adamalexali](https://twitter.com/adamalexali)
-- On email: [adamalexali@gmail.com](mailto:adamalexali@gmail.com)
-- My website: https://adamalexali.com/
+- Twitter: [@adamalexali](https://twitter.com/adamalexali)
+- Email: [adamalexali@gmail.com](mailto:adamalexali@gmail.com)
+- Website: https://adamalexali.com
