@@ -62,4 +62,4 @@ Photoshop, Illustrator, XD, After Effects, InDesign, Aero, Figma, Sketch, InVisi
 
 - Twitter: [@adamalexali](https://twitter.com/adamalexali)
 - Email: [adamalexali@gmail.com](mailto:adamalexali@gmail.com)
-- Website: https://adamalexali.com
+- Website: [adamalexali.com](https://adamalexali.com/)
