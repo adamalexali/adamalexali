@@ -21,13 +21,13 @@ I'm **Adam Ali—a human-focused experience designer, developer, and researcher*
 
 ## 🛠 My skills…
 
-### Development
-
-HTML, CSS, JavaScript, Bootstrap, React, Node, Express, MongoDB, Gatsby, Styled-Components, Git, Github, Webflow, Netlify, Unity 3D
-
 ### Design
 
 Photoshop, Illustrator, XD, After Effects, InDesign, Aero, Figma, Sketch, InVision, Procreate, Blender, Cinema 4D
+
+### Development
+
+HTML, CSS, JavaScript, Bootstrap, React, Node, Express, MongoDB, Gatsby, Styled-Components, Git, Github, Webflow, Netlify, Unity 3D
 
 ## 📚 I’m learning…
 
@@ -47,16 +47,13 @@ Photoshop, Illustrator, XD, After Effects, InDesign, Aero, Figma, Sketch, InVisi
 
 - UX design
 - front-end development
-- media & information theory
+- new & emerging technology
+- media studies
 - digital rights & ethics
 
 ## 🤖 Currently engaging with…
 
-- _A New City O/S_ (reading)
-- _Dune_ (reading)
-- _Hunter x Hunter_ (watching)
-- _Dragon Ball Z_ (watching)
-- _Mass Effect 2_ (playing)
+- [A New City O/S](https://www.goodreads.com/book/show/36692414-a-new-city-o-s?from_search=true&from_srp=true&qid=sew0RzKabH&rank=1) by Stephen Goldsmith & Neil Kleiman
 
 ## 📫 How to reach me…
 
