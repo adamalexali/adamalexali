@@ -1,6 +1,6 @@
 # 💎 Hello!
 
-I'm Adam (he/him)—a human-focused UX developer, researcher, and techno-optimist exploring the intersections of people, design, and technology.
+I'm Adam (he/him)—a human-centered UX developer, researcher, and techno-optimist exploring the intersections of people, design, and technology.
 
 [Check out my website](https://adamalexali.com/), where you can learn more about me, read some of my ramblings, or download my resume!
 
